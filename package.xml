@@ -3,8 +3,8 @@
 <package format="3">
   <name>my_articubot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <description>Articubot project from Articulated Robotics youtube channel</description>
+  <maintainer email="etienne.sudre@orange.fr">Etienne Sudre</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
